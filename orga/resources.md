@@ -5,6 +5,15 @@ http://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/
 http://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups-2/
 ### Cron Jobs (Logfile cleanup, etc.)
 TODO
+### Dynamic Scaling with EC2 Spot Fleet
+https://aws.amazon.com/blogs/compute/dynamic-scaling-with-ec2-spot-fleet/
+### Building NoSQL Database Triggers with Amazon DynamoDB and AWS Lambda
+https://aws.amazon.com/blogs/compute/619/
+### Email-triggered Actions with SES Incoming Emails
+Email Receiving Rulesets hooked up to Lambda function
+Based on language of incoming email forward email to according native speaker in the support team (use https://github.com/mazko/jsli for language categorization)
+### Dynamic GitHub Actions with AWS Lambda
+https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
 
 # Logging and Monitoring
 ### Pushing CloudWatch to IFTTT
@@ -23,7 +32,8 @@ https://mobile.awsblog.com/post/TxH3SWPR48HGAO/Using-Amazon-Cognito-and-AWS-Lamb
 https://github.com/arafato/computournament
 
 # Deployment and Testing
-### Spawning external processes
+### Running arbitrary executables
+https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/
 #### GOLANG binaries
 http://blog.0x82.com/2014/11/24/aws-lambda-functions-in-go/
 https://github.com/jasonmoo/lambda_proc
@@ -31,8 +41,11 @@ https://github.com/jasonmoo/lambda_proc
 TODO
 ### Automatically triggered static site generation and deployment on S3 (Hugo)
 https://github.com/ryansb/hugo-lambda
-### Serverless Testing
+### A simple serverless test harness using AWS Lambda (Unit- and Load-Tests)
 See Blueprint lambda-test-harness
+https://aws.amazon.com/blogs/compute/serverless-testing-with-aws-lambda/
+### Deploying AWS Lambda code from Amazon S3 buckets
+https://aws.amazon.com/blogs/compute/new-deployment-options-for-aws-lambda/
 
 # Application Services
 ### LamdAuth: A Serverless Authentication Service
@@ -41,6 +54,7 @@ https://github.com/danilop/LambdAuth
 https://github.com/awslabs/lambda-ecs-worker-pattern
 ### A Serverless HTTP-Endoint
 See Blueprint "microservice-http-endpoint"
+https://aws.amazon.com/blogs/compute/microservices-without-the-servers/
 ### What is my IP?
 API-Gateway + Lambda to output client's public IP
 ### Handling S3 Events (Thumbnailing)
@@ -58,14 +72,19 @@ TODO
 https://github.com/cloudnative/lambda-chat
 ### Serverless Hello World Service
 TODO
+### Hands-Free Slack: AWS Lambda meets Amazon Echo
+https://aws.amazon.com/blogs/compute/slack-dictation-an-amazon-echo-and-aws-lambda-demo/
+### Face recognition Service with OpenCV
+https://aws.amazon.com/blogs/compute/nodejs-packages-in-lambda/
 
 # Appendix A: Debugging Lambda
 - Emulambda (Python): https://github.com/fugue/emulambda
 - Lambda-Local (JavaScript/NodeJS): https://github.com/ashiina/lambda-local
 
-# Appendix B: Lambda Configuration and Deployment
+# Appendix B: Lambda Configuration and CI/CD
 - JAWS - The Serverless Application Framework: https://github.com/jaws-framework/JAWS/
 - Streambot: https://github.com/mapbox/streambot
+- Grunt plugin: https://www.npmjs.com/package/grunt-aws-lambda
 
 # Appendix C: The Lambda Programming Model
 - NodeJS
