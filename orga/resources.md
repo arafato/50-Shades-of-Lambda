@@ -10,7 +10,7 @@ https://aws.amazon.com/blogs/compute/dynamic-scaling-with-ec2-spot-fleet/
 ### Building NoSQL Database Triggers with Amazon DynamoDB and AWS Lambda
 https://aws.amazon.com/blogs/compute/619/
 ### Email-triggered Actions with SES Incoming Emails
-Email Receiving Rulesets hooked up to Lambda function
+Email Receiving Rulesets hooked up to Lambda function  
 Based on language of incoming email forward email to according native speaker in the support team (use https://github.com/mazko/jsli for language categorization)
 ### Dynamic GitHub Actions with AWS Lambda
 https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
@@ -43,6 +43,8 @@ http://blog.0x82.com/2014/11/24/aws-lambda-functions-in-go/
 https://github.com/jasonmoo/lambda_proc
 #### Serverless statistics with R (R wrapped by a lambda function)
 TODO
+#### RUST binaries
+http://julienblanchard.com/2015/rust-on-aws-lambda/
 ### Automatically triggered static site generation and deployment on S3 (Hugo)
 https://github.com/ryansb/hugo-lambda
 ### A simple serverless test harness using AWS Lambda (Unit- and Load-Tests)
