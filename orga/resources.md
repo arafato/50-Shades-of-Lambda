@@ -1,23 +1,23 @@
 # Infrastructure Management and Automation
-## Scheduling EBS snapshots
+### Scheduling EBS snapshots
 http://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/
-## Deleting old EBS snapshots on a recurring schedule
+### Deleting old EBS snapshots on a recurring schedule
 http://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups-2/
 
 # Logging and Monitoring
-## Pushing CloudWatch to IFTTT
+### Pushing CloudWatch to IFTTT
 http://danilop.net/aws/2015/07/26/cloudwatch2ifttt/
 
 # Deployment
 
 # Application Services
-## LamdAuth: A Serverless Authentication Service
+### LamdAuth: A Serverless Authentication Service
 https://github.com/danilop/LambdAuth
-## Triggering complex applications (such as Ray-Tracing) from Lambda
+### Triggering complex applications (such as Ray-Tracing) from Lambda
 https://github.com/awslabs/lambda-ecs-worker-pattern
-## A Serverless HTTP-Endoint
+### A Serverless HTTP-Endoint
 See Lambda Blueprint "microservice-http-endpoint" and elaborate
-## What is my IP?
+### What is my IP?
 API-Gateway + Lambda to output client's public IP
 
 # Appendix A: Debugging Lambda
