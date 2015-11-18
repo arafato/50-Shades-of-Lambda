@@ -23,9 +23,12 @@ https://mobile.awsblog.com/post/TxH3SWPR48HGAO/Using-Amazon-Cognito-and-AWS-Lamb
 https://github.com/arafato/computournament
 
 # Deployment and Testing
-### Spawning external processes (GOLANG binaries)
+### Spawning external processes
+#### GOLANG binaries
 http://blog.0x82.com/2014/11/24/aws-lambda-functions-in-go/
 https://github.com/jasonmoo/lambda_proc
+#### Serverless statistics with R (R wrapped by a lambda function)
+TODO
 ### Automatically triggered static site generation and deployment on S3 (Hugo)
 https://github.com/ryansb/hugo-lambda
 ### Serverless Testing
@@ -44,7 +47,7 @@ API-Gateway + Lambda to output client's public IP
 http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-s3-events-adminuser.html
 ### Handling AWS CloudTrail events (Real-time compliance checking)
 http://docs.aws.amazon.com/lambda/latest/dg/wt-cloudtrail-events-adminuser.html
-### Real-time Stream processing (Real-time Tweet Analysis)
+### Real-time Stream processing (Real-time Tweet Analysis and Classification)
 https://github.com/arafato/rt-analytics
 https://alestic.com/2015/11/aws-lambda-kinesis-pause-resume/
 ### DynamoDB Event Roll-Ups
@@ -53,6 +56,8 @@ https://www.airpair.com/lambda/posts/aws-lambda-stream-processing
 TODO
 ### Serverless Chat Application
 https://github.com/cloudnative/lambda-chat
+### Serverless Hello World Service
+TODO
 
 # Appendix A: Debugging Lambda
 - Emulambda (Python): https://github.com/fugue/emulambda
