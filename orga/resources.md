@@ -14,6 +14,10 @@ Email Receiving Rulesets hooked up to Lambda function
 Based on language of incoming email forward email to according native speaker in the support team (use https://github.com/mazko/jsli for language categorization)
 ### Dynamic GitHub Actions with AWS Lambda
 https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
+### Building and Maintaining an Amazon S3 Metadata Index without Servers
+https://blogs.aws.amazon.com/bigdata/post/Tx2YRX3Y16CVQFZ/Building-and-Maintaining-an-Amazon-S3-Metadata-Index-without-Servers
+### A Zero-Administration Amazon Redshift Database Loader
+https://blogs.aws.amazon.com/bigdata/post/Tx24VJ6XF1JVJAA/A-Zero-Administration-Amazon-Redshift-Database-Loader
 
 # Logging and Monitoring
 ### Pushing CloudWatch to IFTTT
