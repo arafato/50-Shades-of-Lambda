@@ -13,7 +13,7 @@ http://danilop.net/aws/2015/07/26/cloudwatch2ifttt/
 # Application Services
 ## LamdAuth: A Serverless Authentication Service
 https://github.com/danilop/LambdAuth
-## Ray-tracing high-quality images in the cloud
+## Triggering complex applications (such as Ray-Tracing) from Lambda
 https://github.com/awslabs/lambda-ecs-worker-pattern
 ## A Serverless HTTP-Endoint
 See Lambda Blueprint "microservice-http-endpoint" and elaborate
