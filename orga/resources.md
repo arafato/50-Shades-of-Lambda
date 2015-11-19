@@ -18,6 +18,8 @@ https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
 https://blogs.aws.amazon.com/bigdata/post/Tx2YRX3Y16CVQFZ/Building-and-Maintaining-an-Amazon-S3-Metadata-Index-without-Servers
 ### A Zero-Administration Amazon Redshift Database Loader
 https://blogs.aws.amazon.com/bigdata/post/Tx24VJ6XF1JVJAA/A-Zero-Administration-Amazon-Redshift-Database-Loader
+### Lambdash: Run sh commands inside AWS Lambda environment
+https://github.com/awscodes/lambdash
 
 # Logging and Monitoring
 ### Pushing CloudWatch to IFTTT
@@ -52,6 +54,8 @@ See Blueprint lambda-test-harness
 https://aws.amazon.com/blogs/compute/serverless-testing-with-aws-lambda/
 ### Deploying AWS Lambda code from Amazon S3 buckets
 https://aws.amazon.com/blogs/compute/new-deployment-options-for-aws-lambda/
+### Static site generation using Contentful and AWS Lambda
+https://github.com/awscodes/contentful-aws-lambda-static
 
 # Application Services
 ### LamdAuth: A Serverless Authentication Service
@@ -82,6 +86,11 @@ TODO
 https://aws.amazon.com/blogs/compute/slack-dictation-an-amazon-echo-and-aws-lambda-demo/
 ### Face recognition Service with OpenCV
 https://aws.amazon.com/blogs/compute/nodejs-packages-in-lambda/
+### Resize a video and outputs a thumbnail using FFmpeg
+https://github.com/awscodes/aws-lambda-ffmpeg
+### Serverless OCR Service
+https://github.com/awscodes/okrabyte_aws_lamdba_demo
+
 
 # Appendix A: Debugging Lambda
 - Emulambda (Python): https://github.com/fugue/emulambda
