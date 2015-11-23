@@ -1,4 +1,4 @@
-# 50-Shades-of-Lambda
+# 50 Shades of Lambda
 
 People all over the internet are using [AWS Lambda](https://aws.amazon.com/lambda/) in more and more creative ways to build all sort of useful things, ranging from infrastructure automation to deployment solutions, business intelligence to almost full fledged http endpoints and REST services respectively without running any servers.
 
