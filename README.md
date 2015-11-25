@@ -19,9 +19,9 @@ The eBook will be free, open sourced on Github at https://github.com/arafato/50-
 
 <a name="contribute"/>
 ### How can I contribute?
-Currently, we are collecting use cases. Everybody can contribute and submit links to blog posts, Github or any other location that is publicly available. Have a look at our [current collection](https://github.com/arafato/50-Shades-of-Lambda/blob/master/orga/shades-ideas.md) and send us a pull request. Everybody whose contribution is featured in the book will get listed as contributor in the final edition of the book.
+Currently, we are collecting use cases. Everybody can contribute and submit links to blog posts, Github or any other location that is publicly available. **Have a look at our [current collection](https://github.com/arafato/50-Shades-of-Lambda/blob/master/orga/shades-ideas.md) and send us a pull request. Everybody whose contribution is featured in the book will get listed as contributor in the final edition of the book.**
 
-Currently, we are organizing contributions by the following categories:
+We are organizing contributions by the following categories:
 - Infrastructure Management and Automation
 - Logging and Monitoring
 - Mobile
