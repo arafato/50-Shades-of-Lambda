@@ -17,7 +17,7 @@ The book will be organized in 50 chapters with each one belonging to one categor
 The eBook will be free, open sourced on Github at https://github.com/arafato/50-Shades-of-Lambda and published via Leanpub at https://leanpub.com/fifty-shades-of-lambda. Any royalties will be donated.
 
 
-<a name="about"/>
+<a name="contribute"/>
 ### How can I contribute?
 Currently, we are collecting use cases. Everybody can contribute and submit links to blog posts, Github or any other location that is publicly available. Have a look at our [current collection](https://github.com/arafato/50-Shades-of-Lambda/blob/master/orga/shades-ideas.md) and send us a pull request. Everybody whose contribution is featured in the book will get listed as contributor in the final edition of the book.
 
