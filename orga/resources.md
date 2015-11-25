@@ -56,6 +56,8 @@ https://aws.amazon.com/blogs/compute/serverless-testing-with-aws-lambda/
 https://aws.amazon.com/blogs/compute/new-deployment-options-for-aws-lambda/
 ### Static site generation using Contentful and AWS Lambda
 https://github.com/awscodes/contentful-aws-lambda-static
+### Temperature Sensor Emulator (IoT)
+Internal document
 
 # Application Services
 ### LamdAuth: A Serverless Authentication Service
@@ -90,6 +92,8 @@ https://aws.amazon.com/blogs/compute/nodejs-packages-in-lambda/
 https://github.com/awscodes/aws-lambda-ffmpeg
 ### Serverless OCR Service
 https://github.com/awscodes/okrabyte_aws_lamdba_demo
+### URL Validator
+http://www.themarketingtechnologist.co/building-a-url-validator-with-amazon-api-gateway/
 
 
 # Appendix A: Debugging Lambda
