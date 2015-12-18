@@ -94,6 +94,8 @@ https://github.com/awscodes/aws-lambda-ffmpeg
 https://github.com/awscodes/okrabyte_aws_lamdba_demo
 ### URL Validator
 http://www.themarketingtechnologist.co/building-a-url-validator-with-amazon-api-gateway/
+### Serverless SlackBot
+https://github.com/serverless/serverless-slackbot
 
 
 # Appendix A: Debugging Lambda
