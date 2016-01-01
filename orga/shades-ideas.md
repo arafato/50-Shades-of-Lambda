@@ -96,6 +96,8 @@ https://github.com/awscodes/okrabyte_aws_lamdba_demo
 http://www.themarketingtechnologist.co/building-a-url-validator-with-amazon-api-gateway/
 ### Serverless SlackBot
 https://github.com/serverless/serverless-slackbot
+### Serverless Dynamic DNS System
+https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8
 
 
 # Appendix A: Debugging Lambda
